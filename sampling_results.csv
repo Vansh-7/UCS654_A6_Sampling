@@ -1,0 +1,6 @@
+,Logistic Regression,Decision Tree,Random Forest,SVM,Gradient Boosting
+Simple Random,91.94,90.32,95.16,90.32,93.55
+Stratified,91.94,93.55,98.39,96.77,96.77
+Systematic,95.16,93.55,100.0,100.0,95.16
+Cluster,90.32,95.16,98.39,91.94,96.77
+Bootstrap,95.16,100.0,100.0,100.0,100.0
