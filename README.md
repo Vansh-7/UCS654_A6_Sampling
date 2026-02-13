@@ -1,4 +1,5 @@
 # Credit Card Fraud Detection: Sampling Impact Analysis
+---
 
 ## 📌 Project Overview
 This project focuses on the systematic evaluation of different **sampling techniques** to address class imbalance in a credit card transaction dataset. In real-world fraud detection, the minority class (fraud) is often overshadowed by the majority class (genuine), leading to biased models. This study demonstrates how balancing and sampling influence the performance of five distinct machine learning models.
@@ -41,6 +42,8 @@ The following table summarizes the accuracy (%) achieved by each combination of 
 | **Random Forest** | 95.16 | 98.39 | 100.00 | 98.39 | 100.00 |
 | **SVM** | 90.32 | 96.77 | 100.00 | 91.94 | 100.00 |
 | **Gradient Boosting** | 93.55 | 96.77 | 95.16 | 96.77 | 100.00 |
+
+---
 
 ## 📈 Key Findings
 * **Winning Technique:** **Bootstrap Sampling** and **Systematic Sampling** consistently provided the highest accuracy across most models.
